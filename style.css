@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section_header {
+    background-color: rgb(53, 223, 194);
+    position: relative;
+}
+
+/* .list {
+    position: relative;
+} */
+
+.list_items li {
+    position: absolute;
+}
+
+.list_items li {
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+.list_items li a {
+    text-decoration: none;
+    color: white;
+}
